@@ -1,0 +1,23 @@
+.header, .navigation, .footer {
+  clear: both;
+}
+.column {
+  margin: 10px 1.04% 0 0;
+  border: 1px solid green;
+}
+
+#visit {
+  width: 25%;
+  float: left;
+}
+#points {
+  width: 25%;
+  float: right;
+}
+#main {
+  margin-left:27.08%;
+}
+
+.header, .navigation, .footer {
+  clear: both;
+}

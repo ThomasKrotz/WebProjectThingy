@@ -1,0 +1,8 @@
+body {
+	color: #050;
+}
+
+.column {
+	border-bottom: 2px dotted green;
+	border-top:2px dotted green;
+}

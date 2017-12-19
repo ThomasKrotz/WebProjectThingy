@@ -1,0 +1,108 @@
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	background: orange;
+	color: #050;
+	font: "Adobe Caslon Pro", Georgia, "Times New Roman", serif;
+}
+a, a:visited {
+  color: #42628F;
+}
+p {
+  margin: 0.5em 0.25em;
+}
+h1 {
+  font-size: 2.75em;
+	padding: 0.25em;
+  text-align: center;
+  font-variant: small-caps;
+  padding-top:2em;
+}
+h2 {
+  text-align: center;
+  font-variant: small-caps;
+}
+dl {
+  margin: 0 0.5em;
+}
+dt {
+  font-weight: bold;
+  margin: 0.5em 1em 0.5em 0;
+  border-bottom: 1px dashed #7b96bc;
+}
+.intro {
+  font-size: 1.15em;
+  line-height: 1.3em;
+  text-align: justify;
+  margin: 0.5em;
+  font-weight: bold;
+}
+
+
+.navigation ul li {
+  text-align: center;
+  padding: 0.25em 0;
+  width: 33.33%; /* 960/3 */
+}
+.navigation li a {
+  color: #050;
+  text-align: center;
+  background: #e8cc5f;
+}
+
+#points ul {
+  margin: 0.5em 0 1em 0.5em;
+  padding-left: 1em;
+}
+#points ul li {
+  margin: 0.5em 1em;
+}
+.footer {
+  color: #050;
+  text-align: center;
+  padding: .5em 0;
+  font-style: italic;
+  border: solid green;
+}
+
+
+.column {
+  background: #e8cc5f; 
+  margin: 10px 10px 0 0;
+}
+.navigation {
+  min-height: 25px;
+  padding: 0 0 0 35%;
+  background: #e8cc5f;
+}
+
+.header {
+  background:url(images/pines.png) no-repeat;
+  height: 220px;
+
+}
+
+img, object {
+  max-width: 99%;
+}
+
+ul li{
+  margin : 50px 0;
+  font-size: 1.5em;
+}
+
+
+blockquote{
+  text-align: center;
+  padding-top: 5%;
+  font-size: 2em;
+  }
+
+.color{
+  background: #e8cc5f;
+}
